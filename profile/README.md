@@ -6,7 +6,7 @@ Below is all the websites that we have built <br>
 NIWebDesigns.co.uk <br>
 EZTraining.co.uk <br>
 Bannedapps.uk <br>
-IPTV.Bannedapps.uk <br>
+ <br>
 IPTV2.Bannedapps.uk <br>
 Danielandson.co.uk <br>
 <br>
