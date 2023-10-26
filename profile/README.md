@@ -14,3 +14,5 @@ Useful Websites For Business <br>
 <br>
 Invoice.NIWebDesigns.co.uk <br>
 Encrypt.NIWebDesigns.co.uk <br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
