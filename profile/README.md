@@ -6,13 +6,5 @@ Below is all the websites that we have built <br>
 NIWebDesigns.co.uk <br>
 EZTraining.co.uk <br>
 Bannedapps.uk <br>
- <br>
-IPTV2.Bannedapps.uk <br>
+Deramore290.org <br>
 Danielandson.co.uk <br>
-<br>
-Useful Websites For Business <br>
-<br>
-Invoice.NIWebDesigns.co.uk <br>
-Encrypt.NIWebDesigns.co.uk <br>
-
-![NIWebDesigns GitHub stats](https://github-readme-stats.vercel.app/api?org=NIWebDesigns&show_icons=true&theme=transparent)
