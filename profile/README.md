@@ -15,4 +15,4 @@ Useful Websites For Business <br>
 Invoice.NIWebDesigns.co.uk <br>
 Encrypt.NIWebDesigns.co.uk <br>
 
-![NIWebDesigns GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmat32143&show_icons=true&theme=transparent)
+![NIWebDesigns GitHub stats](https://github-readme-stats.vercel.app/api?org=NIWebDesigns&show_icons=true&theme=transparent)
